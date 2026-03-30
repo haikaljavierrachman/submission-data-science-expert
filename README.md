@@ -49,6 +49,9 @@ Tools yang digunakan:
         Windows: source name_venv/Script/activate
     3. Install library
         pip install -r requirements.txt
+
+        jika menggunakan file requirements.txt terdapat library yang tidak ada gunakan file requirements-all.txt
+        pip install -r requirements-all.txt
 ```
 
 ```
