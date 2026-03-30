@@ -82,6 +82,9 @@ Prototype dikembangkan menggunakan Streamlit untuk memungkinkan staf akademik me
 Cara menjalankan:
     python -m streamlit run app.py
 
+Atau bisa akses ke 
+    https://javierrachman-students-prototype.streamlit.app/
+
 ```
 
 ```
